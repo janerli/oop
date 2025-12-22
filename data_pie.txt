@@ -1,0 +1,8 @@
+What's the best internet browser ever?
+6
+41,54 Mozilla Firefox
+25,38 Internet Explorer
+15,38 Opera
+9,23 Netscape
+3,85 Avant Browser
+4,62 Other
